@@ -14,4 +14,10 @@ This task allows a customer to create an account using valid registration inform
 
 This task allows customers to browse products by category and view basic product information such as product name, image, and price. Products should be arranged clearly so customers can find what they need.
 
+## ID-04: Add Products to Cart
+
+This task allows customers to add products to their cart before placing an order. The cart should update when a product is added so customers can buy multiple items together.
+
+**Status: Implemented**
+
 
