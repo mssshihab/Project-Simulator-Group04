@@ -15,10 +15,5 @@ This task allows a customer to create an account using valid registration inform
 This task allows customers to browse products by category and view basic product information such as product name, image, and price. Products should be arranged clearly so customers can find what they need.
 
 
-## ID-01: Admin Login
-
-This task involves creating an admin login feature with email and password. The system should allow the admin to access the admin panel using correct login information and show an error for incorrect information.
-
-**Status: Implemented**
 
 
